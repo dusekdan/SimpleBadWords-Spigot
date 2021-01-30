@@ -1,0 +1,10 @@
+name: SimpleBadWords
+version: ${project.version}
+main: com.danieldusek.simplebadwords.SimpleBadWords
+api-version: 1.16
+authors: [ DanielDusek ]
+description: Simple, lightweight plugin to discourage players from overusing specified words.
+website: https://danieldusek.com
+commands:
+  sbw:
+    description: Configure and browse SimpleBadWords.

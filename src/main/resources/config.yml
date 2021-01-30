@@ -1,0 +1,26 @@
+punishments:
+  level1:
+    - "eco take %player% 500"
+    - "say &4Hráč &e%player%&4 byl pokutován &e$500&4 za použití sprostého slova &eprvní úrovně&4."
+  level2:
+    - "eco take %player% 1000"
+    - "say &4Hráč &e%player% &4byl pokutován &e$1000&4 za použití sprostého slova &edruhé úrovně&4."
+words:
+  level1:
+    - debil
+    - idiot
+    - prdel
+    - hovno
+  level2:
+    - kokot
+    - čůrák
+    - zmrd
+    - piča
+    - píča
+    - kurva
+    - kurwa
+    - kunda
+    - kundy
+    - zkurvysyn
+    - zkurvisin
+    - skurvisin
