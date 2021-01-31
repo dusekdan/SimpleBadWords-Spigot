@@ -27,7 +27,7 @@ words:
 - :information_source: To make either words or punishment commands "empty" (do nothing, punish for nothing), just do `level1: []` or `level2: []` respectively.
 - :x: You cannot add punishment or offense levels.
 
-## How to properly define offesnes
+## How to properly define offenses
 
 **There are two rules to that**:
 
